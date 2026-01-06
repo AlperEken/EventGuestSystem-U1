@@ -28,4 +28,4 @@ To run the application locally, ensure you have the Java Development Kit (JDK) i
   java DA339A_U1
 ```
 
- **Author: Alper Eken**
+ *Author: Alper Eken Course: Objectoriented programming Semester: Autumn 2024*
